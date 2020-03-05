@@ -1,5 +1,5 @@
 package external;
-
+// Test comment
 import mediator.TemperatureModel;
 
 import java.util.concurrent.ThreadLocalRandom;
