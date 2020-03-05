@@ -11,5 +11,6 @@
     <orderEntry type="library" name="MyXmlConverter-1.2" level="application" />
     <orderEntry type="library" name="javafx-swt5" level="application" />
     <orderEntry type="library" name="lib1" level="application" />
+    <orderEntry type="library" name="javafx-swt" level="application" />
   </component>
 </module>
