@@ -30,7 +30,7 @@ public class ThermometerViewModel implements PropertyChangeListener
         this.h1 = new SimpleStringProperty();
         this.model = model;
 
-        model.addListener("Temperature", this);
+        model.addTemperature("Temperature", this);
     }
 
     public DoubleProperty getT1()
