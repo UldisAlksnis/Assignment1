@@ -12,4 +12,6 @@ public class ViewModelFactory
         this.detailsViewModel = new DetailsViewModel(model);
     }
 
+    public ThermometerViewModel getThermometerViewModel(){ return thermometerViewModel;}
+    public DetailsViewModel getDetailsViewModel(){return detailsViewModel;}
 }
